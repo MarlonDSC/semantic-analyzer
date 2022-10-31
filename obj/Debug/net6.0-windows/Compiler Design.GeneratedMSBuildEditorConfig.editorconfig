@@ -13,4 +13,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Compiler_Design
-build_property.ProjectDir = C:\Users\ramadan\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\Compiler Design\Compiler Design\
+build_property.ProjectDir = c:\Users\eddys\Documents\UTESA\10mo Cuatrimestre\Compiladores\semantic-analyzer\
